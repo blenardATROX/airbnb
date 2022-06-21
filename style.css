@@ -1,0 +1,15 @@
+.contact{
+  text-align: center;  
+  background-color: blue;
+  padding-bottom: 20%;
+  margin-top: 5%;
+  padding: 15px;
+  border-radius: 10px;
+
+}
+input{
+    margin-top: 3%;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
